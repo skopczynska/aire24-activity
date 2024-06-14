@@ -36,7 +36,7 @@ We have prepared some studies for this task which are readily available:
 
 All prepared studies contain a dedicated `README.md` file with some additional information.
 You can also use an own study of your choice.
-In this case, simply copy the [studies/template/](./studies/template/) folder and fill the respective information.
+In this case, simply copy the [studies/template/](./studies/template/) folder and fill in the respective information.
 
 ### 2. Select Data
 
