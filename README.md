@@ -2,24 +2,23 @@
 
 [![GitHub](https://img.shields.io/github/license/aire-ws/aire24-activity)](./LICENSE)
 
-This repository contains the material for the joint activity during the [Eleventh International Workshop on Artificial Intelligence and Requirements Engineering (AIRE'24)](https://aire-ws.github.io/aire24/) (co-located with the [32nd Requirements Engineering (RE) Conference](https://conf.researchr.org/home/RE-2024)).
+This repository contains the material for the joint activity during the [Eleventh International Workshop on Artificial Intelligence and Requirements Engineering (AIRE'24)](https://aire-ws.github.io/aire24/) (co-located with the [32nd Requirements Engineering (RE) Conference](https://conf.researchr.org/home/RE-2024) in Iceland).
 
 ## Activity Description
 
 The purpose of the activity is to investigate the following hypothesis:
 
-> Have large-language models (LLMs) made previous research artifacts obsolete?
+> Have large-language models (LLMs) made previous AI tools obsolete?
 
 The AIRE workshop series has - similar to comparable venues like the [Natural Language Processing for Requirements Engineering (NLP4RE) workshops](https://nlp4re.github.io/2024/) - brought forth many interesting AI- and ML-powered tools.
 These tools were often meticulously designed, authors collected and annotated training data manually, and tools were trained locally with much effort.
 But the wake of LLMs and generative AIs (GenAIs) like [ChatGPT](https://chat.openai.com/) or [Llama](https://llama.meta.com/) has put all this effort into question.
 
 These tools can perform several requirements engineering related tasks out of the box, without any design, and barely any data preparation or training.
-Was all previously invested effort obsolete in terms of tool effectiveness?
-
+Was all previously invested effort obsolete?
 In this activity, we invite to explore this hypothesis.
-The activity is neither systematic nor entirely conclusive, but shall rather stimulate discussions about the topic.
-Feel free to add to it and replicate it in the future.
+The activity is neither systematic nor conclusive, but shall rather stimulate discussions about the topic.
+Feel free to extend or change it.
 
 ## Activity Instructions
 
@@ -56,6 +55,8 @@ Based on the experiences with the LLM performing the tool’s task, reflect on t
 - What did the LLM excel at?
 - What did the LLM struggle with?
 - Have our previously developed AIRE tools become obsolete?
+
+Feel free to add questions and insights of your own.
 
 ## License
 
