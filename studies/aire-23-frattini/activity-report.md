@@ -2,7 +2,7 @@
 
 In this file you can report the results from your participation in the activity.
 
-## Selected Tool
+## Selected LLM
 
 Selected large language model or generative AI tool: `(enter LLM name and version)`
 

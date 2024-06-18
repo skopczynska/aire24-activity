@@ -10,11 +10,11 @@ There, you find the requirement, the expected output, CiRA's output, as well as 
 
 | ID | Requirement | CiRA | LLM |
 |---|---|---|--|
-| [R16](#requirement-16) | If the content is not available in the detected system language, English is selected by default. | &#9989; | |
-| [R1](#requirement-1) | An introduction to how the app works is displayed the first time the app is launched. | &#10060; | |
-| [R2](#requirement-2) | The introduction to how the app works is not displayed when the app is launched subsequently. | &#9989; | |
-| [R68](#requirement-68) | Accessibility regarding contrast and font size/type is provided depending on the options available in the respective operating system. | &#10060; | |
-| [R36](#requirement-36) | Depending on the notification settings, the app sends a notification to the user. | &#10060; | |
+| [R16](#requirement-16) | If the content is not available in the detected system language, English is selected by default. | &#9989; | &#9989;/&#10060; |
+| [R1](#requirement-1) | An introduction to how the app works is displayed the first time the app is launched. | &#10060; | &#9989;/&#10060; |
+| [R2](#requirement-2) | The introduction to how the app works is not displayed when the app is launched subsequently. | &#9989; | &#9989;/&#10060; |
+| [R68](#requirement-68) | Accessibility regarding contrast and font size/type is provided depending on the options available in the respective operating system. | &#10060; | &#9989;/&#10060; |
+| [R36](#requirement-36) | Depending on the notification settings, the app sends a notification to the user. | &#10060; | &#9989;/&#10060; |
 
 ## Requirement 16
 
@@ -38,6 +38,8 @@ There, you find the requirement, the expected output, CiRA's output, as well as 
 
 ### Output by the LLM
 
+&#9989;/&#10060; (state whether the LLM produces the expected output)
+
 ```text
 (enter your solution here)
 ```
@@ -58,6 +60,8 @@ There, you find the requirement, the expected output, CiRA's output, as well as 
 &#10060; CiRA does not classify the requirement as conditional and, therefore, does not generate a test suite
 
 ### Output by the LLM
+
+&#9989;/&#10060; (state whether the LLM produces the expected output)
 
 ```text
 (enter your solution here)
@@ -85,6 +89,8 @@ There, you find the requirement, the expected output, CiRA's output, as well as 
 
 ### Output by the LLM
 
+&#9989;/&#10060; (state whether the LLM produces the expected output)
+
 ```text
 (enter your solution here)
 ```
@@ -110,6 +116,8 @@ There, you find the requirement, the expected output, CiRA's output, as well as 
 | 2 | not available in the respective operating system | not is provided | not is provided |
 
 ### Output by the LLM
+
+&#9989;/&#10060; (state whether the LLM produces the expected output)
 
 ```text
 (enter your solution here)
@@ -138,6 +146,8 @@ The condition of the cause ("are configured accordingly") allows some variance, 
 | 2 | not sends a notification to the user | not sends a notification to the user |
 
 ### Output by the LLM
+
+&#9989;/&#10060; (state whether the LLM produces the expected output)
 
 ```text
 (enter your solution here)
