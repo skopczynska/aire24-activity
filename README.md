@@ -27,7 +27,7 @@ To participate in the joint activity, *fork this repository* and please follow t
 ### 1. Select a Study
 
 Select a (published) study that presents an AI-supported tool that performs an RE task.
-The study shoud clearly describe the task of the tool, contain a public replication package that includes an evaluation of the tool, and contain a data set used in the evaluation comprision of (1) input data, (2) expected outcome (i.e., ground truth), and (3) the tool output.
+The study should clearly describe the task of the tool, contain a public replication package that includes an evaluation of the tool, and contain a data set used in the evaluation comprision of (1) input data, (2) expected outcome (i.e., ground truth), and (3) the tool output.
 
 We have prepared some studies for this task which are readily available:
 
