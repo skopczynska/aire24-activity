@@ -38,10 +38,19 @@ There, you find the requirement, the expected output, CiRA's output, as well as 
 
 ### Output by the LLM
 
-&#9989;/&#10060; (state whether the LLM produces the expected output)
+&#9989;/&#10060; 
+|---|---|---|
+Condition	Expected Value
+| 1| Content is available in the detected system language	| Display content in the detected language |
+| 2 |2Content is not available in the detected system language but is available in English |	Display content in English |
+| 3 |Content is not available in the detected system language and English	Display an error message or fallback content |
 
 ```text
-(enter your solution here)
+I will provide some requirements and would like you to generate test cases in form of a table. In the first column please provide a condition in the second the expected value. please make it so it does not duplicate the conditions.
+
+Requirement: If the content is not available in the detected system language, English is selected by default.
+
+
 ```
 
 ## Requirement 1
